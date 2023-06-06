@@ -1,0 +1,34 @@
+D:\INFORMATIKA\aditt\api weather\AppWeather\bin\Debug\AppWeather.exe.config
+D:\INFORMATIKA\aditt\api weather\AppWeather\bin\Debug\AppWeather.exe
+D:\INFORMATIKA\aditt\api weather\AppWeather\bin\Debug\AppWeather.pdb
+D:\INFORMATIKA\aditt\api weather\AppWeather\bin\Debug\Newtonsoft.Json.dll
+D:\INFORMATIKA\aditt\api weather\AppWeather\bin\Debug\Newtonsoft.Json.pdb
+D:\INFORMATIKA\aditt\api weather\AppWeather\bin\Debug\Newtonsoft.Json.xml
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\cuaca.csproj.AssemblyReference.cache
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\cuaca.csproj.SuggestedBindingRedirects.cache
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\AppWeather.Form1.resources
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\AppWeather.Form2.resources
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\AppWeather.Form3.resources
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\AppWeather.Properties.Resources.resources
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\cuaca.csproj.GenerateResource.cache
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\cuaca.csproj.CoreCompileInputs.cache
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\cuaca.csproj.CopyComplete
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\AppWeather.exe
+D:\INFORMATIKA\aditt\api weather\AppWeather\obj\Debug\AppWeather.pdb
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\bin\Debug\AppWeather.exe.config
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\bin\Debug\AppWeather.exe
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\bin\Debug\AppWeather.pdb
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\bin\Debug\Newtonsoft.Json.dll
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\bin\Debug\Newtonsoft.Json.pdb
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\bin\Debug\Newtonsoft.Json.xml
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\cuaca.csproj.AssemblyReference.cache
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\cuaca.csproj.SuggestedBindingRedirects.cache
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\AppWeather.Form1.resources
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\AppWeather.Form2.resources
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\AppWeather.Form3.resources
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\AppWeather.Properties.Resources.resources
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\cuaca.csproj.GenerateResource.cache
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\cuaca.csproj.CoreCompileInputs.cache
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\cuaca.csproj.CopyComplete
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\AppWeather.exe
+D:\INFORMATIKA\SEMESTER 2\PBO\intaan weather\AppWeather\obj\Debug\AppWeather.pdb
